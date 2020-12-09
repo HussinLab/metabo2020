@@ -1,0 +1,7 @@
+pandas
+rfpimp 
+scikit-learn
+numba
+bokeh
+networkx
+matplotlib
